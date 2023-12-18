@@ -1,0 +1,16 @@
+{
+  "name": "workspaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "save-as-workspace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nichlas W. Andersen <nichlas@itsnwa.com>",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@sindresorhus/slugify": "^2.2.1",
+    "node-window-manager": "^2.2.4"
+  }
+}
